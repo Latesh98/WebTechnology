@@ -1,0 +1,40 @@
+.Box1{
+   
+
+    
+    margin: 10px;
+}
+.Box2{
+   
+  
+    
+    margin: 10px;
+}
+.Box3{
+   
+   
+
+    margin: 10;
+}
+.B1{
+    display: flex;
+    padding: auto;
+}
+.Box1 img{
+    width: 150px;
+    height: 100px;
+}
+
+.Box3 img {
+    width: 330px;
+    height: 160px;
+}
+
+.Box2 img{
+    width: 150px;
+    height: 152px;
+}
+img{
+    margin: auto;
+    
+}
